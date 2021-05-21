@@ -30,15 +30,15 @@ Algoritmo ta_te_ti
         Escribir " "
         Escribir "      ||     ||     "
         Escribir "   ",tabla_2[1,1],"  ||  ",tabla_2[1,2],"  ||  ",tabla_2[1,3]
-        Escribir "     (7)||    (8)||    (9)"
+        Escribir "   (1)||  (2)||   (3)"
         Escribir " =====++=====++======"
         Escribir "      ||     ||     "
         Escribir "   ",tabla_2[2,1],"  ||  ",tabla_2[2,2],"  ||  ",tabla_2[2,3]
-        Escribir "     (4)||    (5)||    (6)"
+        Escribir "   (4)||  (5)||   (6)"
         Escribir " =====++=====++======"
         Escribir "      ||     ||     "
         Escribir "   ",tabla_2[3,1],"  ||  ",tabla_2[3,2],"  ||  ",tabla_2[3,3]
-        Escribir "     (1)||    (2)||    (3)"
+        Escribir "   (7)||  (8)||   (9)"
         Escribir " "
 		
         
